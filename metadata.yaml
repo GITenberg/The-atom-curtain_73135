@@ -1,0 +1,34 @@
+_repo: The-atom-curtain_73135
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, Nick B. (Nick Boddie)
+    alias: Williams, Nick Boddie
+    birthdate: 1906
+    deathdate: 1992
+    gutenberg_agent_id: '56925'
+    url: http://www.gutenberg.org/2009/agents/56925
+    wikipedia: https://en.wikipedia.org/wiki/Nick_Boddie_Williams
+description: ''
+gutenberg_issued: '2024-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73135'
+language: en
+pgterms:marc905: 20240126141045williams
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bAce Books, Inc., $c1956.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Dystopias -- Fiction'
+- !lcsh 'United States -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The atom curtain
+url: http://www.gutenberg.org/ebooks/73135
